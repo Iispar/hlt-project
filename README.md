@@ -1,11 +1,10 @@
 # hlt-project
 
-project for the intro to human language technology course.
-
+project for the intro to human language technology course. Object of the project is to create a machine learning-based method for text classification. I chose the [emotion](https://huggingface.co/datasets/dair-ai/emotion) dataset from HuggingFace that categorizes tweets into six emotion categories.
 
 ## Basic project outline
 
-The project involves creating a machine learning-based method for a text classification task of your choice. Specifically, you should
+project todo:
 
 1. Select a text classification corpus to work on. (see below)
 2. Read the paper presenting the corpus as well as any other relevant published materials about the corpus to assure you understand the data
